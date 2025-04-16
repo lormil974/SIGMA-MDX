@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SIGMA-MD~q14yWbob#xQ8-ihSCPVYHqycDA1iuGIkNIPBh22PqFds8Q5UW93w"
     },  
     
     "ALIVE_IMG": {
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -46,7 +46,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
@@ -70,7 +70,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "FAKE_RECORDING": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "SIGMA MD"
+      "value": "Lormil MD"
     }, 
 
     "HEART_REACT": {
